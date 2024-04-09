@@ -1,3 +1,5 @@
 {
-    "java.compile.nullAnalysis.mode": "automatic"
+    "java.compile.nullAnalysis.mode": "disabled",
+    "cmake.sourceDirectory": "D:/Mthomi/Studio Projects/stetch/windows/flutter",
+    "cmake.cmakePath": "C:\\cmake-3.29.1-windows-x86_64\\bin"
 }
