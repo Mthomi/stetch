@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758679307486",
+    "project_id": "sketches-d29f0",
+    "storage_bucket": "sketches-d29f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758679307486:android:4314adf23421d7e77b2e4f",
+        "android_client_info": {
+          "package_name": "com.example.stetch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA04AYFfLExKUkQPnFgrapTYxHUWyGK768"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
